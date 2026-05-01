@@ -1,4 +1,3 @@
-# Social-Media-Ad-BPMN
 # Social Media Ad Sales Process — BPMN Analysis
 
 ## The Process
@@ -12,27 +11,27 @@ the perspectives of the ad executives, billing specialist, graphic design depart
 and ad manager.
 
 This cycle matters to the business because ad sales revenue is the core driver for 
-their office. Every inefficiency in this workflow is a delay between a signed contract 
-and money collected, and every miscommunication between roles is a potential client 
-lost. With five ad executives all running this process simultaneously, small friction 
-points can build quickly across the team. This diagram also serves as a practical 
-onboarding tool — new hires can reference it to familiarize themselves with the full 
-workflow before handling their first client.
+their office. Every inefficiency is a delay between a signed contract 
+and money collected; every miscommunication between roles is a potential client 
+lost. With five ad executives all running this process simultaneously, small 
+points of friction can build quickly across the team. This diagram also serves as a 
+practical onboarding tool, as new hires can reference it to familiarize themselves with 
+the full workflow before handling their first client.
 
 ![BPMN Diagram](diagram.png)
 
-## The Current State — What's Inefficient
+## The Current State- What's Inefficient
 
-The first bottleneck occurs before the ad executive even makes contact with a potential 
-client. Before reaching out, the ad exec must check with the billing specialist to 
-confirm the client has no outstanding dues. Because the ad exec is essentially waiting 
-on whenever the billing specialist is available to respond, this step has no defined 
-turnaround time. On a busy day this can delay outreach by hours, and would be improved 
-by an automated system flagging account status.
+The first bottleneck appears before the ad executive makes contact with a potential 
+client. The ad exec must check with the billing specialist to confirm the
+client has no outstanding dues. This step has no defined 
+turnaround time because the ad exec is waiting on whenever the billing 
+specialist is available to respond. On a busy day this can delay outreach by hours, 
+and would be improved by an automated system flagging account status.
 
 The artwork approval loop is another point where the process stalls. Once the ad exec 
-submits an artwork request, there is no visibility into where it stands in the design 
-queue — they have to follow up manually with the graphic design department to get a 
+submits an artwork request, there is no visibility for where it stands in the design 
+queue and they have to follow up manually with the graphic design department to get a 
 status update. A shared document or project management tool tracking artwork requests, 
 their current status, and expected completion dates would give ad executives real time 
 visibility without requiring a phone call or email every time.
